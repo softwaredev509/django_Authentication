@@ -1,13 +1,13 @@
 ## Introduction
 
-This is a demo repository to teach how to set up social authentication (and request extra user data) in Django using the social-auth-app-django library with minimal configuration. 
+This is a demo to set up social authentication (and request extra user data) in Django using the social-auth-app-django library with minimal configuration. 
 
 ## Requirements
 * Python3
 * [Pipenv](https://pypi.org/project/pipenv/)
 
 ## Running the application
-1. Clone the project to your machine ```[git clone https://github.com/Jordanirabor/django_social_app]```
+1. Clone the project to your machine ```[git clone https://github.com/softwaredev509/django_Authentication]```
 2. Navigate into the diretory ```[cd django_social_app]```
 3. Source the virtual environment ```[pipenv shell]```
 4. Install the dependencies ```[pipenv install]```
